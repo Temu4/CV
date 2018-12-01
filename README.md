@@ -22,3 +22,4 @@ Travelling,
 Music,
 Sport,
 Fishing.
+<img src="https://99px.ru/sstorage/86/2015/10/image_860210151148355628755.gif" alt="Черно-белый полосатый кот виляет хвостом" oncontextmenu="return false">
